@@ -1,4 +1,4 @@
-# Share My Information
+# Share My Contact
 ![banner](https://user-images.githubusercontent.com/100338428/177486536-74279f54-58ca-4acb-94ae-09f06ada2dbf.jpg)
 
 # How to use?
